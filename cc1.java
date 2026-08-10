@@ -1,5 +1,4 @@
 import java.util.*;
-import java.io.*;
 
 class Codechef
 {
@@ -32,7 +31,6 @@ class Codechef
 
             }
             System.out.println(result);
-            argCounter += 2;
         }
         
         sc.close();
