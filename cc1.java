@@ -1,5 +1,4 @@
 import java.util.*;
-import java.lang.*;
 import java.io.*;
 
 class Codechef
@@ -12,7 +11,6 @@ class Codechef
 	{
 		// your code goes here
 		Scanner sc = new Scanner(System.in);
-		int argCounter = 1;
 
         int total = sc.nextInt();
         for(int i = 0; i < total; i++){
