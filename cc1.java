@@ -32,7 +32,6 @@ class Codechef
 
             }
             System.out.println(result);
-            argCounter += 2;
         }
         
         sc.close();
